@@ -20,6 +20,7 @@ This script runs everyday to re-assign everybody to a new seat.
 │   ├── openspace.py
 │   ├── table.py
 │   └── file_utils.py
+├── .gitignore
 ├── main.py
 ├── new_colleagues.csv
 └── README.md
